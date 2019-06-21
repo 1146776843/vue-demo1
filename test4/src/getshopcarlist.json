@@ -1,0 +1,38 @@
+{
+    "message": [{
+        "cou": 1,
+        "id": 0,
+        "title": "附加加所有属性的：罗什卡片",
+        "sell_price": 2130,
+        "thumb_path": "src/static/img/v13.jpg",
+        "num": 0
+    }, {
+        "cou": 2,
+        "id": 1,
+        "title": "附加加火属性的：引力恶魔：修丁厄卡片",
+        "sell_price": 4999,
+        "thumb_path": "src/static/img/v14.jpg",
+        "num": 0
+    }, {
+        "cou": 3,
+        "id": 2,
+        "title": "附加加暗属性的：暗之恶魔：艾森卡片",
+        "sell_price": 2500,
+        "thumb_path": "src/static/img/v15.jpg",
+        "num": 0
+    }, {
+        "cou": 4,
+        "id": 3,
+        "title": "附加加光属性的：光之恶魔：欧格里卡片",
+        "sell_price": 2600,
+        "thumb_path": "src/static/img/v16.jpg",
+        "num": 0
+    }, {
+        "cou": 5,
+        "id": 4,
+        "title": "附加加光属性的：光之恶魔：欧格里卡片",
+        "sell_price": 2700,
+        "thumb_path": "src/static/img/v13.jpg",
+        "num": 0
+    }]
+}

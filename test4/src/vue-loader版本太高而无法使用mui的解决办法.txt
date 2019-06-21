@@ -1,0 +1,11 @@
+You may need an appropriate loader to handle this file type.
+这里记录一下本人遇见这个错误的原因及处理办法：
+
+vue-loader版本过高，与其他工具不兼容（通过查看脚手架里引用的版本做对应修改）
+
+1.先卸载安装的版本（环境各异）
+
+npm uninstall vue-loader
+2.安装相应版本
+
+npm install vue-loader@13.3.0
